@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexfrenchonthemove@gmail.com
+	name = alexander french
